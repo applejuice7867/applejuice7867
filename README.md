@@ -8,7 +8,7 @@
 <!-- End of about ignored part -->
 
 <introduction>
-I am a self-taught developer and a university student majoring in computer science from Hong Kong. I am particular interested in web technologies, including Javascript, WebAssembly, web frameworks etc, currently exploring the field of cybersecurity and artificial intelligence. Feel free to explore my projects!
+I am a self-taught developer and a secondary school student from Hong Kong. I am particular interested in game development, linux/unix systems and tinkering with random stuff, currently exploring the field of cybersecurity and artificial intelligence. Feel free to explore my projects!
 </introduction>
 
 <!-- Start of about ignored part -->
@@ -18,7 +18,7 @@ I am a self-taught developer and a university student majoring in computer scien
 <img src="https://img.shields.io/badge/-Google%20Cloud-gray?style=for-the-badge&logo=google%20cloud&labelColor=4285f4&logoColor=fff" alt="Google Cloud Badge">
 <img src="https://img.shields.io/badge/-npm%20Registry-gray?style=for-the-badge&logo=npm&labelColor=Cb3837" alt="npm Registry Badge">
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-gray?style=for-the-badge&labelColor=007acc&logoColor=fff" alt="Visual Studio Code Badge">
-
+ignore everything execpt github and visual studio code, also add firebase.
   
 
 ### Languages
@@ -27,13 +27,13 @@ I am a self-taught developer and a university student majoring in computer scien
 <img class="language-badge" src="https://img.shields.io/badge/-CSS-gray?style=for-the-badge&logo=css&labelColor=white&logoColor=8b4ad3" alt="CSS Badge" display-name="CSS" icon-slug="css" icon-color="#8b4ad3">
 <img class="language-badge" src="https://img.shields.io/badge/-Rust-gray?style=for-the-badge&logo=rust&labelColor=black&logoColor=f46623" alt="Rust Badge" display-name="Rust" icon-slug="rust" icon-color="#f46623">
 <img class="language-badge" src="https://img.shields.io/badge/-C++-gray?style=for-the-badge&logo=cplusplus&labelColor=white&logoColor=00599c" alt="C++ Badge" display-name="C++" icon-slug="cplusplus" icon-color="#00599c">
-python
+python,
 ignore rust and typescript
   
 <!-- End of about ignored part -->
 
 <!--
-**Kynson/Kynson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kynson/Kynson(applejuice7867)** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
