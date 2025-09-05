@@ -3,7 +3,7 @@
 ## Hello! I am Apple Juice 👋
 
 <!-- This is cached hourly -->
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcounter.applejuice7867.com%2Fgithubprofile&query=%24.newValue&label=Profile%20Views&style=for-the-badge&logo=github&color=90caf9" alt="Profile Views">
+
 
 <!-- End of about ignored part -->
 
