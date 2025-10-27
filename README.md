@@ -8,7 +8,7 @@
 <!-- End of about ignored part -->
 
 <introduction>
-I am a self-taught developer and a secondary school student from Hong Kong. I am particular interested in game development, linux/unix systems and tinkering with random stuff, currently exploring the field of cybersecurity and artificial intelligence. Feel free to explore my projects!
+I am a self-taught developer and a secondary school student from Hong Kong. I love screaming at bugs.
 </introduction>
 
 <!-- Start of about ignored part -->
